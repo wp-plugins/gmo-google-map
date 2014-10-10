@@ -1,0 +1,25 @@
+
+
+input.gmo_Address{
+	width:400px;
+	}
+
+input.gmo_google_map_Width,
+input.gmo_google_map_Height,
+input.gmo_google_map_Breakpoint{
+	width: 100px;
+	}
+
+input.gmo_google_map_Zoom{
+	width: 50px;
+	}
+
+td.gmo_google_map_Save{
+	padding-left: 400px;
+	}
+
+span.gmo_google_map_Ex{
+	color:#999;
+	margin-left: 10px;
+	font-size: 12px;
+	}

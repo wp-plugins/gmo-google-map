@@ -1,0 +1,54 @@
+div#gmoGoogleMapWrap{
+	width:930px;
+	}
+
+div#gmoplugLeft{
+	float:left;
+	width:650px;
+	}
+
+input.gmo_Address{
+	width:400px;
+	}
+
+input.gmo_google_map_Width,
+input.gmo_google_map_Height,
+input.gmo_google_map_Breakpoint{
+	width: 100px;
+	}
+
+input.gmo_google_map_Zoom{
+	width: 50px;
+	}
+
+td.gmo_google_map_Save{
+	padding-left: 400px;
+	}
+
+span.gmo_google_map_Ex{
+	color:#999;
+	margin-left: 10px;
+	font-size: 12px;
+	}
+	
+
+/* gmoplugRight */
+#gmoGoogleMapWrap #gmoplugRight { float: right; width: 212px; padding: 0 18px 15px; border: 1px solid #ccc; }
+#gmoGoogleMapWrap #gmoplugRight ul li.bnrlink { text-align: right; margin: 0 0 35px; }
+#gmoGoogleMapWrap #gmoplugRight ul li span { display: inline-block; width: 0; height: 0; border-style: solid; border-width: 5px 0 5px 8.7px; padding: 0 6px 0 0; border-color: transparent transparent transparent #427133; line-height: 0px; _border-color: #000000 #000000 #000000 #427133; _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000'); }
+#gmoGoogleMapWrap #gmoplugRight ul li a { color: #427133; text-decoration: none; background: url(../images/ico_link.png) left center no-repeat; padding: 0 0 0 15px; }
+
+
+
+
+.clearfix:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+	}
+
+.clearfix {
+	display: block;
+	}
