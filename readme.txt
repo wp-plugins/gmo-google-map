@@ -13,7 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-If you use this plug-in, you can insert a Google map easily to the web site.
+With "GMO Google Map" plugin, you can use Google Maps on your website by simply embedding a shortcode in anywhere you desire. 
+No special coding skill is required.  Simply enter information (eg. address) to create a shortcode and paste it to complete.  
 
 
 == Installation ==
@@ -21,7 +22,19 @@ If you use this plug-in, you can insert a Google map easily to the web site.
 Search and download plugin from either WordPress admin page or http://wordpress.org/plugins.  
 From the WordPress admin page, simply activate the plugin, or upload a file from "Add New" to install and activate plug-in.  
 
+Time required for installation: Approximately 15 seconds. 
+
 == Frequently Asked Questions ==
+
+How do you make correction to a map?  
+-You need to create a new shortcode.
+
+Is this plugin compatible with Google Street View or a Google Earth? 
+-No, this plugin is not compatible with Google Street View nor a Google Earth. 
+ 
+I love maps
+-Bon Voyage! 
+
 
 == Changelog == 
 
