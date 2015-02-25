@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: GMO Google Map
-Author: WP Shop byGMO
-Plugin URI:http://map.wpshop-demo.com/
-Description: If you use this plug-in, you can insert a Google map easily to the web site.
-Version: 1.0
-Author URI: http://wpshop.com
+Author: GMO WP Cloud
+Plugin URI:https://www.wpcloud.jp/en/plugins
+Description: With "GMO Google Map" plugin, you can use Google Maps on your website by simply embedding a shortcode in anywhere you desire. No special coding skill is required. Simply enter information (eg. address) to create a shortcode and paste it to complete.
+Version: 1.1
+Author URI: https://wpcloud.jp/en/
 Domain Path: 
 Text Domain: GMO Google Map
 */

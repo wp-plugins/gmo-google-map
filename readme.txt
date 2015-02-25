@@ -1,21 +1,19 @@
 === Plugin Name ===
 
 Plugin Name: GMO Google Map
-Author: WP Shop byGMO
-Author URI: http://www.wpshop.com
+Author: GMO WP Cloud
+Author URI: http://wwws.wpcloud.jp/en/
 Contributors: Takeaki Nagashima
 Tags: Widget
 Requires at least: 3.8
-Tested up to: 4.0 
-Stable tag: Version 1.0 
+Tested up to: 4.1.1 
+Stable tag: Version 1.1 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-With "GMO Google Map" plugin, you can use Google Maps on your website by simply embedding a shortcode in anywhere you desire. 
-No special coding skill is required.  Simply enter information (eg. address) to create a shortcode and paste it to complete.  
-
+With "GMO Google Map" plugin, you can use Google Maps on your website by simply embedding a shortcode in anywhere you desire. No special coding skill is required. Simply enter information (eg. address) to create a shortcode and paste it to complete.  
 
 == Installation ==
 
@@ -41,6 +39,8 @@ I love maps
 
 = 1.0 =
 * Initial Release
+= 1.1 =
+* Updated Author Profile
 
 == Upgrade Notice ==
 
